@@ -41,7 +41,7 @@ CWT POS (Cloud + Local) is a comprehensive **Point of Sale (POS)** system design
 > 🔻 _Images will be updated soon as provided_
 
 ### 🧾 Sample Receipt  
-![Receipt Sample](slip-qb.png)
+![Receipt Sample](slip-qb.PNG)
 
 ### 📊 Dashboard Overview  
 ![Dashboard Screenshot](s-qb-1.PNG)
