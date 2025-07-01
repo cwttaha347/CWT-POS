@@ -1,6 +1,6 @@
 # 🧾 CWT POS - Complete Point of Sale & Financial Management System
 
-![CWT POS Logo](logo-s.png) <!-- Replace or remove if you have a specific logo -->
+![CWT POS Logo](logo-s.PNG) <!-- Replace or remove if you have a specific logo -->
 
 CWT POS (Cloud + Local) is a comprehensive **Point of Sale (POS)** system designed for businesses to **manage billing, invoices, inventory, and finances**, both **online and offline**. It seamlessly integrates a **local bot system** and a **centralized online platform**, allowing smart sync between local sales counters and remote financial dashboards.
 
@@ -44,9 +44,9 @@ CWT POS (Cloud + Local) is a comprehensive **Point of Sale (POS)** system design
 ![Receipt Sample](slip-qb.png)
 
 ### 📊 Dashboard Overview  
-![Dashboard Screenshot](s-qb-1.png)
-![Dashboard Screenshot](qb-s-2.png)
-![Dashboard Screenshot](udhaar-credit-system.png)
+![Dashboard Screenshot](s-qb-1.PNG)
+![Dashboard Screenshot](qb-s-2.PNG)
+![Dashboard Screenshot](udhaar-credit-system.PNG)
 
 ---
 
